@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanbarbs&label=Profile%20views&color=0e75b6&style=flat" alt="luanbarbs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luanbarbs" alt="luanbarbs" /></a> </p>
-
 - 🔭 I’m currently working on [Álcool e Saúde](http://www.alcoolesaude.com.br/)
 
 - 🌱 I’m currently learning **React Native, Java, NLP**
