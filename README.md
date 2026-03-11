@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanbarbs&label=Profile%20views&color=0e75b6&style=flat" alt="luanbarbs" /> </p>
 
-- 🔭 I’m currently working on [Álcool e Saúde](http://www.alcoolesaude.com.br/)
+- 🔭 I’m currently working on CAEd/UFJF and [Álcool e Saúde](http://www.alcoolesaude.com.br/)
 
 - 🌱 I’m currently learning **React Native, Java, NLP**
 
